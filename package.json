@@ -1,0 +1,17 @@
+{
+  "name": "birthdayy",
+  "version": "1.0.0",
+  "description": "Birthday greetings..",
+  "main": " ",
+  "scripts": {
+    "server-node": "http-server -p 8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LuCiFFeR1469/birthdayy.git"
+  },
+  "keywords": [
+    "Birthday"
+  ]
+  
+}
